@@ -1,0 +1,9 @@
+Different Models - Choose the model based on the datasets available (The one with mode sources)
+----------------------------------------------------------------------------------------------------------------
+Given the in and out migrants for a specific country over the years, predict the net migrants for the next year.
+Given the total migrants of a country to outside, predict the destination country.
+Given the individuals' data of a country, predict whether the individual will migrate or not.
+Given historical migration patterns, predict future migration trends for specific regions.
+Given demographic and socioeconomic factors, predict the likelihood of migration for different citizenships.
+Given the migration policy changes, analyze their impact on migration flows in the following year.
+Given the economic indicators of a country, predict the potential for increased or decreased migration.
